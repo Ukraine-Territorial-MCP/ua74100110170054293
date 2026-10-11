@@ -1,0 +1,33 @@
+{
+  "village": {
+    "name": "Ягідне",
+    "katottg": "UA74100110170054293",
+    "type": "village",
+    "community_katottg": "UA74100110000030364",
+    "region_code": "UA74000000000025378",
+    "region_name": "Чернігівська",
+    "district_code": "UA74100000000047140",
+    "district_name": "Чернігівський",
+    "community_name": "Іванівська"
+  },
+  "geography": {
+    "latitude": 51.345119,
+    "longitude": 31.27685,
+    "osm_type": "node",
+    "osm_id": 337509245,
+    "source": "OpenStreetMap / Nominatim",
+    "retrieved_at": "2026-10-11T00:15:47.938127+00:00"
+  },
+  "sources": {
+    "administrative": {
+      "name": "КАТОТТГ",
+      "edition_date": "2026-07-07",
+      "url": "https://mindev.gov.ua/storage/app/sites/1/uploaded-files/kodifikator-07-07.xlsx"
+    },
+    "geographic": {
+      "name": "OpenStreetMap / Nominatim",
+      "retrieved_at": "2026-10-11T00:15:47.938127+00:00",
+      "website": "https://www.openstreetmap.org"
+    }
+  }
+}
